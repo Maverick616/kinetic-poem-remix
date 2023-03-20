@@ -1,7 +1,9 @@
-# A Simple Digital Poem
+# A Simple Digital Poem about Gamer Presidents
 
 A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
 
 ## Made on [Glitch](https://glitch.com/)
 
 \ ゜ o ゜)ノ
+
+## [Gamer Presidents](https://imaginary-ossified-alamosaurus.glitch.me/)
